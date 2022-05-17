@@ -1,0 +1,17 @@
+.carousel-inner img {
+    max-height: 700px;
+}
+
+.site-footer{
+    height: 100px;
+    background-color: gray;
+}
+.pt-4{
+    color: white;
+}
+.redes a i{
+    color: white;
+}
+.col-4{
+    height: 200px;
+}
